@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1671780004 source:f:\me\programming\c++\cblocks.matkul\jokian tubes std\tubes postfix\postfix\main.cpp
+	"pfix.h"
+
+1671779972 f:\me\programming\c++\cblocks.matkul\jokian tubes std\tubes postfix\postfix\pfix.h
+	<iostream>
+	<cmath>
+	<string>
+
+1671780249 source:f:\me\programming\c++\cblocks.matkul\jokian tubes std\tubes postfix\postfix\pfix.cpp
+	"pfix.h"
+
+1671780006 source:c:\users\farhan\desktop\tubes postfix\tubes postfix\postfix\main.cpp
+	"pfix.h"
+
+1671941914 c:\users\farhan\desktop\tubes postfix\tubes postfix\postfix\pfix.h
+	<iostream>
+	<cmath>
+	<string>
+
+1671781622 source:c:\users\farhan\desktop\tubes postfix\tubes postfix\postfix\pfix.cpp
+	"pfix.h"
+
+1671780006 source:c:\users\farhan\documents\tubes postfix\postfix\main.cpp
+	"pfix.h"
+
+1671941914 c:\users\farhan\documents\tubes postfix\postfix\pfix.h
+	<iostream>
+	<cmath>
+	<string>
+
